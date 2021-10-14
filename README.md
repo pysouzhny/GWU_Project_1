@@ -11,10 +11,9 @@ Will Pape
 
 Project description/outline:
 
-The crypto market is generally known for its high profit returns. Despite the market's volatility, the growth in different coins' market caps encourage more people to defy their fears.
-As an  excited new crypto investor, after learning about the coin operations the next factor that determines where you allocate your funds is the investment strategy to follow (long-term or short-term) and the expected return. 
-Deciding whether to invest in a developed coin whose USD purchasing  value is high and the possible return on investment is almost certain. Or investing in a promising upcoming coin with a relatively low USD purchasing value along with the uncertainty of a return on investment is another hard decision you have to make.
-This project’s aim is to provide data that will help a new crypto investor decide in a more efficient way which investment strategy to go with and what coins to invest in comparing coins such as Bitcoin, Ethereum, Dogecoin, Sushiswap,Tether. 
+The stock market has been through a lot in the past few months, mainly the major crypto market plunge in July. Your nephew is a new skeptical crypto investor whose interest into the market grew after some coins hit their highest market value around May 2021.
+As a relative to this young crypto enthusiast aware of his impatience and investment strategy (short term) you asked  him to provide you with 5 coins that he thinks would have helped help his portfolio grow in a year if he invested the same a year ago. The main aim of this portfolio is to come up with an analysis that will be easy for him to understand his different investments.
+
 
 Research questions to answer:
 
