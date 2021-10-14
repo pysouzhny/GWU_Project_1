@@ -15,6 +15,7 @@ The stock market has been through a lot in the past few months, mainly the major
 As a relative to this young crypto enthusiast aware of his impatience and investment strategy (short term) you asked  him to provide you with 5 coins that he thinks would have helped help his portfolio grow in a year if he invested the same a year ago. The main aim of this portfolio is to come up with an analysis that will be easy for him to understand his different investments.
 
 
+
 Research questions to answer:
 
 Which coin has the most growth? In the short run (0-2 years)? In the long-run (5-10years)?
