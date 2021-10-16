@@ -18,29 +18,26 @@ As a relative to this young crypto enthusiast aware of his impatience and invest
 
 Research questions to answer:
 
-Which coin has the most growth? In the short run (0-2 years)? In the long-run (5-10years)?
-Which coin performs better?
-To achieve 15% of return over a year which crypto should you invest in?
-To achieve 30% of return over 5 years which crypto should you invest in?
-Which coin has suffered the most losses?
-What is the most traded coin?
-Does the volume traded influence the price?
-Does a coin value affect its trade?
-What portfolio offers the best Sharpe Ratio?
-
+## Does a coin value affect its trading volume?
+*We concluded that there is no direct relationships between price and trading volume. 
+## What are the most unpredictable coin?
+*The most unpredictable coins were found out to be mainly the low caps coins (Sushi, Doge)
+## Which coin has grown the most? 
+*A Growth dominated by lower capitalization and Meme coins observed from the plot of the cummulative returns over the period of *oct-2020* to *oct-2021*, which shows SUSHI and DogeCoin as the assets with the highest levels of growth. One argument in favor of including these types of assets in a portfolio in combination with blue chip assets like Bitcoin and Ethereum.*
+## What is the most traded coin ? 
+*Bitcoin is the most traded coin of all the portfolio*
+## What is the optimal portfolio for reducing exposure to risk?
+*In this part of our annalysis, we kept Tether(the stable coin) to maintain the lowest risk possible. The results included of the minimum Volatility portfolio annualized portfolio return was 405.77% with an annualized volatility of 27.99%. How ever, one common attribute found in both portfolio weighs (weigh of minimum volatility, weigh with the highest sharpe ratio), Tether makes up for more that 50% of the porfolio making both the safest. *
+ 
 
 Datasets to be used:  
 YahooFinance
-
-https://data.nasdaq.com/tools/api / https://data.nasdaq.com/tools/api
-
-https://marketstack.com/ {http://api.marketstack.com/v1/}
 
 
 
 
 Rough breakdown of tasks:   
- Import,clean and sort data.
+Import,clean and sort data.
 Display the data using different charts.
 Interpret the data. 
 Compare the different coins.
